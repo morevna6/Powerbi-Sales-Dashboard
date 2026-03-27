@@ -44,7 +44,18 @@ The dashboard focuses on understanding revenue trends, product performance, and 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard-psd-psd.png)
+
+---
+
+## Charts Preview
+
+![Dashboard](sales-time-series-psd.png)
+![Dashboard](currency-conversion-analysis-psd.png)
+![Dashboard](average-product-price-by-category-psd.png)
+![Dashboard](monthly-revenue-psd.png)
+![Dashboard](sales-by-payment-method-psd.png)
+![Dashboard](product-distribution-by-category-psd.png)
 
 ---
 
