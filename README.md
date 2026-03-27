@@ -68,6 +68,6 @@ The dashboard focuses on understanding revenue trends, product performance, and 
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 This project demonstrates the use of Power BI for creating interactive dashboards and analyzing business performance metrics.
